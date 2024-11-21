@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random News</title>
+    <style>
+        /* CSS styling can go here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #FAF0E6;
+        }
+        header {
+            background-color: #D8BFD8;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #666;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #D8BFD8;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome To Random News</h1>
+</header>
+
+<nav>
+    <a href="#">Home Page</a> |
+    <a href="#">Contact Us</a> |
+    <a href="#">Layanan</a> 
+</nav>
+
+<section>
+    <h2>RANDOM NEWS</h2>
+    <article>
+        <h3>Shin Taeyong menyatakan kompetisi antara korea selatan dan indonesia itu kejam, karena dia merasa ini tentang nasionalisme terhadap negara nya sendiri dan ke profesinal dalam pekerjaanya sebagai coach.</h3>
+
+        <p>Tapi Coach Shin Taeyong bakal mempersiapkan timnas U-23 Indonesia untuk tampil terbaik melawan Korea selatan, termasuk senjata rahasia yang akan dia tunjukkan nanti dipertandingan.</p>
+
+        <p>Coach shin taeyong: "Korea Selatan memang merupakan tim dengan skill individu yang baik, begitu juga secara fisik mungkin terlihat lebih baik dari Indonesia.Tetapi Indonesia punya waktu 1 hari lebih lama dari Korea Selatan, karena aku tahu tim Korea dengan baik, aku akan mempersiapkan (timnas Indonesia) dengan baik."
+        Yang disayangkan oleh Shin Taeyong adalah baik Korea Selatan dan Jepang tidak menampilkan permainan terbaik mereka saat pertandingan terakhir grup, sehingga Shin Taeyong tidak bisa menganalisis pertandingan tersebut.</p>
+        
+        <p>source : https://mobile.newsis.com/view.html?ar_id=NISX20240423_0002710614</p>
+    </article>
+</section>
+
+<footer>
+    <h3>Contact Us : E-mail : randomnews2@gmail.com</h3>
+</footer>
+
+</body>
+</html>
